@@ -1,0 +1,5 @@
+   Contact: mailto:info@saqrscan.com
+   Expires: 2027-10-12T00:00:00.000Z
+   Preferred-Languages: ar, en
+   Canonical: https://saqrscan.com/.well-known/security.txt
+   Policy: https://saqrscan.com/privacy/
